@@ -6,4 +6,5 @@
 
 ## Starting
 
-Run the backend server: `pnpm be`
+Run the backend server: `pnpm run dev`
+
